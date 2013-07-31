@@ -7,3 +7,6 @@ helpers do
     "<em>#{text}</em>"
   end
 end
+
+token: 19118934-IOPgV35khBCUY60F0g1YEMPxnsCSJnSGSV2exrXyM
+secret: TfsWa3AOLGkqNyOVrDSft33af9gOEBdvswCcIbkCw0
