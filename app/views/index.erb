@@ -10,6 +10,7 @@
   <% if @access_token %>
     <div>
       <p>
+        <strong>Welcome User:</strong> <%= @access_token.params["screen_name"] %><br>
         <strong>token:</strong> <%= @access_token.token %><br>
         <strong>secret:</strong> <%= @access_token.secret %><br>
       </p>

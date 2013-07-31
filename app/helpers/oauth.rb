@@ -4,6 +4,7 @@ def oauth_consumer
     ENV['TWITTER_KEY'],
     ENV['TWITTER_SECRET'],
     :site => "https://api.twitter.com"
+
   )
 end
 
