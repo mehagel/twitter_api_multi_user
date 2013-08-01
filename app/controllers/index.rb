@@ -28,3 +28,6 @@ get '/auth' do
   erb :index
   
 end
+heroku config:set TWITTER_KEY=ZIQxUVoe4mEFqymJ4AmnWg TWITTER_SECRET=rcul3Isc53X8hiH0zaqM4ZD7SsVgtcpoxO9CD1csGQ
+Consumer key  ZIQxUVoe4mEFqymJ4AmnWg
+Consumer secret rcul3Isc53X8hiH0zaqM4ZD7SsVgtcpoxO9CD1csGQ
